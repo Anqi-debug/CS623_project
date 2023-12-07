@@ -75,13 +75,6 @@ DROP CONSTRAINT fk_stock1;
 
 
 
-
-
-
-
-
-
-
 insert into depot values('d1' , 'New York' , 9000);
 insert into stock values('p1', 'd1' , 1000);
 insert into stock values('p3', 'd1' , 3000);
